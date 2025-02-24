@@ -1,5 +1,3 @@
 #Demo
-
-hello git 
-
+hello git
 i am new member to git
